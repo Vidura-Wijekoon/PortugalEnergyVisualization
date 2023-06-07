@@ -150,7 +150,7 @@ def visualize_energy_demand():
     st.subheader("A tool for visualizing energy demand, energy supply, and solar potential")
 
     # Loading data from task 2 (Energy Demand)
-    df = pd.read_excel(r"D:/Python/streamlit_env/Scripts/energy_demand_306 (1).xlsx")
+    df = pd.read_excel("energy_demand_306 (1).xlsx")
 
     # Sidebar
     st.sidebar.title("Filters and User Inputs")
