@@ -78,7 +78,8 @@ def main():
     st.plotly_chart(fig)
 
     # Plotting energy demand, energy supply, or solar potential by region
-    energy_type = st.sidebar.selectbox("Select energy type", ('energy_demand', 'energy_supply', 'solar_potential'))
+    energy_type = st.sidebar.selectbox("Select Item to Visualize", ('energy_demand', 'energy_supply', 'solar_potential'))
+
     fig, ax = plt.subplots(figsize=(12, 6))
     sns.boxplot(x='region', y=energy_type, data=data)
     ax.set_title(f'{energy_type.replace("_", " ").title()} by Region')
