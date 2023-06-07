@@ -253,14 +253,115 @@ def night_light():
     ax.boxplot(values)
     st.pyplot(fig)  # streamlit display plot
 
+def energy_supply():
+    #Reading the dataset
+    df = pd.read_csv("cleaned_data.csv")
+    st.dataframe(df.head(10))
 
+    corr = df.corr()
+    fig, ax = plt.subplots(figsize=(5,4))
+    sns.heatmap(corr, cmap="Greens",annot=True)
+    st.pyplot(fig)
+
+    df["commissioning_year"] = df['commissioning_year'].replace(np.nan, df["commissioning_year"].median())
+    df["district"] = df["district"].replace(np.nan,df["district"].mode()[0])
+    df["municipality"] = df["municipality"].replace(np.nan,df["municipality"].mode()[0])
+
+    #Districts Count
+    fig1  = px.bar(df["district"].value_counts(),
+                x = "district",
+                color = "district",
+                title = "Total number of districts in Portugal")
+
+    st.plotly_chart(fig1)
+
+    #grouping each districts and sum of capacity in each district
+    Capacity_df = df.groupby('district')['capacity_mw'].sum().reset_index()
+
+    #barchart between capacity_mw vs district
+    fig2 = px.bar(Capacity_df, x='district', y='capacity_mw',color = "district",
+                labels = {"capacity_mw":"Total Energy Capacity in MegaWatt"},
+                height= 600,
+                title = "Total Energy Capacity In Mega Watt on Each District")
+
+    st.plotly_chart(fig2)
+
+    #count of Energy sources as primary fuel
+    fig3 = px.histogram(df, x ="primary_fuel",
+                    height = 600,
+                    color = "primary_fuel",
+                    title = "Total Count of Energy sources as primary fuel")
+
+    st.plotly_chart(fig3)
+
+    #Grouping each  primary fuels with Energy capacity
+    Capacity_energy =  df.groupby('primary_fuel')['capacity_mw'].sum().sort_values(ascending = False).reset_index()
+
+    #Barplot
+    fig4 = px.bar(Capacity_energy,
+                x ="primary_fuel",
+                y = "capacity_mw",
+                color="primary_fuel",
+                title = "Energy Capacity (MW) vs primary Fuel (Energy Sources)")
+    st.plotly_chart(fig4)
+
+    #Grouping each  Municipality with Energy capacity
+    Capacity_munici = df.groupby('municipality')['capacity_mw'].sum().sort_values(ascending = False).reset_index()
+
+    # Top 10 Municipalities having Higher Energy Capacity :
+    fig5 = px.bar(Capacity_munici[:10],
+                y ="municipality",
+                x = "capacity_mw",
+                color = "municipality",
+                title = "Top 10 Municipalities having higher Energy Capacity(MW)")
+    st.plotly_chart(fig5)
+
+    #  Municipalities having lower Energy Capacity :
+    fig6 = px.bar(Capacity_munici[-20:],
+                y ="municipality",
+                x = "capacity_mw",
+                color = "municipality",
+                title = "Municipalities having Low Energy Capcity(MW)")
+    st.plotly_chart(fig6)
+
+    # Bar graph of Municipalities of Energy Capacity :
+    fig7 = px.bar(Capacity_munici,
+                x ="municipality",
+                y = "capacity_mw",
+                color = "municipality",
+                height = 600,width = 1300,
+                title = "Energy Capacity(MW) of All Municipalite")
+    st.plotly_chart(fig7)
+
+    #Grouping capcity on Commissioning_year
+    Capacity_year = df.groupby('commissioning_year')['capacity_mw'].mean().sort_values(ascending = False).reset_index()
+
+    #creating the parameter
+    values = Capacity_year["capacity_mw"]
+    names = Capacity_year["commissioning_year"]
+
+    fig8 = px.pie(df, values=values[:7],
+                names=names[:7],
+                height=600,
+                title="Top 7 commissioning_year having Higher Energy Capacity (MW)")
+    fig8.update_traces(textposition="inside", textinfo="percent+label")
+
+    st.plotly_chart(fig8)
+
+    fig9 = px.pie(df, values=values[:15],
+                names=names[:15],
+                height=600,
+                title="Top15_commissioning_year Vs  Energy Capacity (MW)")
+    fig9.update_traces(textposition="inside", textinfo="percent+label")
+
+    st.plotly_chart(fig9)
 
 # driver function
 def main():
     st.sidebar.title('Choose your option')
     option = st.sidebar.selectbox(
         'Which visualization do you want to see?',
-        ('Energy Communities in Portugal', 'Energy Demand','Nightlight visualization')
+        ('Energy Communities in Portugal', 'Energy Demand','Energy Supply','Nightlight visualization')
     )
 
     mapbox_api_key = os.getenv("MAPBOX_API_KEY")
@@ -271,6 +372,8 @@ def main():
         visualize_energy_portugal()
     elif option == 'Energy Demand':
         visualize_energy_demand()
+    elif option == "Energy Supply":
+        energy_supply()
     else:
         night_light()
 
