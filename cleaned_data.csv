@@ -1,0 +1,470 @@
+name,capacity_mw,primary_fuel,commissioning_year,district,municipality
+Abogalheira,3.34,Wind,2006.0,Porto,Marco de Canaveses
+About the Future,2.2,Solar,2016.0,Setúbal,Setúbal
+Abrunheira (Ecoparque),2.8,Waste,2012.0,Lisboa,Mafra
+Achada,6.9,Wind,2005.0,Lisboa,Torres Vedras
+Acil 1,2.0,Solar,2013.0,Setúbal,Montijo
+Acil 2,2.0,Solar,2013.0,Setúbal,Montijo
+Agilde,2.0,Hydro,2012.0,Braga,Celorico de Basto
+Alagoa de Cima,13.5,Wind,2005.0,Viana do Castelo,Arcos de Valdevez
+Alfouvar,2.0,Solar,2013.0,Lisboa,Sintra
+Almargem,6.0,Wind,2007.0,Lisboa,Sintra
+Almodôvar,1.1,Solar,,Beja,Almodôvar
+Alrota,5.0,Wind,2008.0,Lisboa,Loures
+Alto Arganil,36.0,Wind,2009.0,Castelo Branco,Covilhã
+Alto Douro,253.2,Wind,2010.0,Viseu,Tabuaço
+Alto Lindoso,630.0,Hydro,,Viana do Castelo,Ponte da Barca
+Alto Minho I,240.0,Wind,2008.0,Viana do Castelo,Monção
+Alto Rabagão,68.0,Hydro,1964.0,Vila Real,Montalegre
+Alto da Coutada,165.6,Wind,2010.0,Vila Real,Vila Pouca de Aguiar
+Alto da Folgorosa,18.0,Wind,2008.0,Lisboa,Alenquer
+Alto da Vaca,2.4,Wind,2002.0,Braga,Vieira do Minho
+Alto do Côto,4.5,Wind,2003.0,Viseu,Castro Daire
+Alto do Marco,12.0,Wind,2011.0,Vila Real,Mondim de Basto
+Alto do Monção,32.0,Wind,2006.0,Viseu,Mortágua
+Alto do Seixal,1.6,Wind,2006.0,Vila Real,Boticas
+Alto do Talefe,13.5,Wind,2004.0,Viseu,Cinfães
+Alto dos Forninhos,8.2,Wind,2014.0,Portalegre,Portalegre
+Alva,1.5,Hydro,2001.0,Coimbra,Oliveira do Hospital
+Alvadia,10.0,Hydro,1993.0,Vila Real,Ribeira de Pena
+Alvaiázere,18.0,Wind,2010.0,Leiria,Alvaiázere
+Alvito,3.4,Hydro,2010.0,Beja,Cuba
+Alvão,22.8,Wind,2002.0,Vila Real,Ribeira de Pena
+Além-Fazenda,1.5,Hydro,1966.0,Azores,Santa Cruz das Flores
+Amaral,10.0,Wind,2004.0,Lisboa,Alenquer
+Amareleja,45.8,Solar,2008.0,Beja,Moura
+Amieiro/Galego,1.2,Hydro,2004.0,Braga,Vila Nova de Famalicão
+Arada-Montemuro,121.2,Wind,2008.0,Viseu,Castro Daire
+Arcela,11.5,Wind,2005.0,Lisboa,Sobral de Monte Agraço
+Archeira 2,4.0,Wind,2004.0,Lisboa,Torres Vedras
+Aregos,3.1,Hydro,1958.0,Viseu,Cinfães
+Arga,36.0,Wind,2006.0,Viana do Castelo,Caminha
+Arruda,6.0,Wind,2006.0,Lisboa,Arruda dos Vinhos
+Assobio,1.0,Hydro,2004.0,Porto,Baião
+Avalades,14.0,Solar,2012.0,Faro,Silves
+Aveiro (Aterro Sanitário),1.2,Waste,2007.0,Aveiro,Aveiro
+Aveiro (CITVRSU),3.2,Waste,2012.0,Aveiro,Aveiro
+Azinheira,14.0,Wind,2007.0,Braga,Celorico de Basto
+Açor,24.3,Wind,2004.0,Coimbra,Arganil
+Bairro,22.0,Wind,2009.0,Santarém,Ourém
+Baixo Alentejo / Mértola,43.7,Wind,2013.0,Beja,Mértola
+Baião,6.3,Wind,2009.0,Porto,Baião
+Barbarrala,1.3,Solar,2014.0,Évora,Évora
+Barlavento (Aterro Sanitário),1.7,Waste,2004.0,Faro,Portimão
+Barroca,2.0,Hydro,2005.0,Castelo Branco,Fundão
+Barão de São João,50.0,Wind,2009.0,Faro,Lagos
+Beira Interior,50.0,Wind,2014.0,Guarda,Trancoso
+Beiras,100.8,Wind,2010.0,Castelo Branco,Covilhã
+Belver,80.7,Hydro,1951.0,Portalegre,Gavião
+Bica da Cana,3.0,Wind,1993.0,Madeira,Ponta do Sol
+Bigorne,7.0,Wind,2002.0,Viseu,Lamego
+Boavista,3.8,Hydro,1995.0,Porto,Santo Tirso
+Bolores,5.2,Wind,2003.0,Lisboa,Loures
+Bordeira,24.0,Wind,2009.0,Faro,Aljezur
+Bornes,60.0,Wind,2009.0,Bragança,Alfândega da Fé
+Borninhos,2.0,Wind,2004.0,Bragança,Macedo de Cavaleiros
+Bouçoais-Sonim,9.9,Hydro,2006.0,Vila Real,Valpaços
+Bouçã,44.0,Hydro,1955.0,Leiria,Pedrógão Grande
+Bragadas,10.1,Hydro,1999.0,Vila Real,Ribeira de Pena
+Bragado,3.1,Hydro,1998.0,Vila Real,Vila Pouca de Aguiar
+Braval (Ecoparque),1.1,Waste,2011.0,Braga,Póvoa de Lanhoso
+Bravo,16.0,Wind,2009.0,Castelo Branco,Sertã
+Bruceira,1.6,Hydro,1928.0,Portalegre,Nisa
+Bugalheira,1.4,Hydro,1991.0,Beja,Odemira
+Bulgueira,2.4,Wind,2003.0,Vila Real,Ribeira de Pena
+Bustelo,18.0,Wind,2009.0,Viseu,Cinfães
+Cabeço Alto,11.7,Wind,2000.0,Vila Real,Montalegre
+Cabeço da Rainha,22.2,Wind,2000.0,Castelo Branco,Oleiros
+Cabeço da Rainha II,31.2,Wind,2008.0,Castelo Branco,Oleiros
+Cabeço do Carvalho,1.11,Wind,1996.0,Madeira,Porto Santo
+Cabrela,12.0,Solar,2014.0,Évora,Montemor-o-Novo
+Cabril,20.2,Wind,2002.0,Viseu,Castro Daire
+Cadafaz,10.2,Wind,2001.0,Coimbra,Pampilhosa da Serra
+Cadraço,1.2,Wind,2004.0,Viseu,Tondela
+Caldas,10.0,Wind,2005.0,Leiria,Caldas da Rainha
+Caldeirão,40.0,Hydro,1994.0,Guarda,Guarda
+Calheta,4.7,Hydro,1953.0,Madeira,Calheta
+Campo do Ameixial,5.0,Solar,2016.0,Évora,Estremoz
+Candal / Coelheira,40.0,Wind,2006.0,Viseu,São Pedro do Sul
+Candemil,2.0,Hydro,2011.0,Porto,Amarante
+Canedo,10.0,Hydro,2008.0,Vila Real,Ribeira de Pena
+Caneiro,1.6,Hydro,2002.0,Braga,Braga
+Canha/Alpenduradas,12.0,Solar,2014.0,Setúbal,Montijo
+Caniçada,62.0,Hydro,1954.0,Braga,Terras de Bouro
+Caniçal,6.6,Solar,2010.0,Madeira,Machico
+Caramulo,90.0,Wind,2006.0,Viseu,Vouzela
+Caravelas,1.2,Wind,2000.0,Vila Real,Vila Real
+Carregal,5.5,Hydro,1996.0,Aveiro,Vale de Cambra
+Carreço-Outeiro,20.7,Wind,2004.0,Viana do Castelo,Viana do Castelo
+Carreço-Outeiro II,13.8,Wind,2010.0,Viana do Castelo,Viana do Castelo
+Casais,2.0,Wind,2007.0,Viseu,Cinfães
+Casal,1.1,Hydro,1994.0,Braga,Cabeceiras de Basto
+Casal dos Cabeços,2.3,Solar,2014.0,Santarém,Tomar
+Castanheira,4.0,Wind,2004.0,Bragança,Mogadouro
+Castanhos,1.3,Solar,2010.0,Beja,Mértola
+Catapereiro,7.2,Hydro,2002.0,Guarda,Vila Nova de Foz Côa
+Catefica,18.0,Wind,2004.0,Lisboa,Torres Vedras
+Cefra,1.1,Hydro,1995.0,Braga,Cabeceiras de Basto
+Cela,2.0,Wind,2006.0,Leiria,Alcobaça
+Cercosa,4.2,Hydro,1992.0,Viseu,Vouzela
+Chaminé,6.9,Wind,2004.0,Setúbal,Sines
+Chiqueiro,4.0,Wind,2007.0,Coimbra,Pampilhosa da Serra
+Chã do Guilhado,2.0,Wind,2009.0,Vila Real,Vila Pouca de Aguiar
+Chão Falcão,80.5,Wind,2005.0,Leiria,Porto de Mós
+Cinfães,8.0,Wind,2009.0,Viseu,Cinfães
+Coentral Safra,41.8,Wind,2006.0,Leiria,Castanheira de Pêra
+Cogeração Amorim,1.1,Biomass,2004.0,Aveiro,Santa Maria da Feira
+Cogeração Caima,9.0,Biomass,2001.0,Santarém,Constância
+Cogeração Celbi,70.0,Biomass,1987.0,Coimbra,Figueira da Foz
+Cogeração Celtejo,30.0,Biomass,1992.0,Castelo Branco,Vila Velha de Ródão
+Cogeração EUROPA&C Energia Viana,38.8,Biomass,2002.0,Viana do Castelo,Viana do Castelo
+Cogeração SIAF,4.0,Biomass,1996.0,Viseu,Mangualde
+Cogeração da Figueira da Foz (Lavos),95.0,Biomass,2004.0,Coimbra,Figueira da Foz
+Cogeração de Cacia,35.1,Biomass,2005.0,Aveiro,Aveiro
+Cogeração de Setúbal,53.9,Biomass,2004.0,Setúbal,Setúbal
+Coimbra (CITVRSU),3.2,Waste,2012.0,Coimbra,Coimbra
+Condeixa,2.4,Solar,,Coimbra,Condeixa-a-Nova
+Coruche 1A,2.0,Solar,2014.0,Santarém,Coruche
+Coruche 1B,2.0,Solar,2014.0,Santarém,Coruche
+Coruche 1C,2.0,Solar,2014.0,Santarém,Coruche
+Coruche 2,2.0,Solar,2014.0,Santarém,Coruche
+Coruche 3,8.0,Solar,2014.0,Santarém,Coruche
+Corvete,2.4,Hydro,1972.0,Porto,Felgueiras
+Costa Vicentina,10.0,Wind,2005.0,Setúbal,Sines
+Covas do Barroso,6.6,Hydro,1996.0,Vila Real,Boticas
+Degracias,20.0,Wind,2005.0,Coimbra,Soure
+Desterro,13.2,Hydro,1959.0,Guarda,Seia
+Dirão da Rua,2.6,Wind,2004.0,Guarda,Sabugal
+Enerfer I,8.0,Wind,2012.0,Castelo Branco,Castelo Branco
+Eresolar,5.0,Solar,2015.0,Évora,Évora
+Ermal,10.0,Hydro,1937.0,Braga,Póvoa de Lanhoso
+Ermida,8.5,Hydro,1993.0,Viseu,Castro Daire
+Ermida (Ribeiradio),7.0,Hydro,2015.0,Viseu,Oliveira de Frades
+Espiga,6.0,Wind,2005.0,Viana do Castelo,Caminha
+Espinhaço do Cão,10.0,Wind,2008.0,Faro,Aljezur
+Estarreja,2.48,Solar,2014.0,Aveiro,Estarreja
+Estoi 1,1.0,Solar,2013.0,Faro,Faro
+Estoi 2,1.0,Solar,,Faro,Faro
+Estoi 3,1.0,Solar,2014.0,Faro,Faro
+Fagilde,2.4,Hydro,1998.0,Viseu,Mangualde
+Fajã da Nogueira,2.4,Hydro,1971.0,Madeira,Santana
+Fajã dos Padres,1.7,Hydro,1993.0,Madeira,Ribeira Brava
+Fanhões,18.0,Wind,2005.0,Lisboa,Loures
+Fanhões,2.0,Solar,2014.0,Lisboa,Loures
+Feiticeiro (Baixo Sabor - Jusante),36.0,Hydro,2015.0,Bragança,Torre de Moncorvo
+Felgar,8.0,Wind,2007.0,Bragança,Torre de Moncorvo
+Ferreira do Alentejo,12.0,Solar,2009.0,Beja,Ferreira do Alentejo
+Ferreira do Alentejo,10.0,Solar,2009.0,Beja,Ferreira do Alentejo
+Ferreiras,6.0,Solar,2012.0,Faro,Albufeira
+Figueiral,1.5,Wind,2002.0,Azores,Vila do Porto
+Flamenguinha,2.0,Solar,2013.0,Évora,Montemor-o-Novo
+Fonte da Mesa,10.2,Wind,1996.0,Viseu,Lamego
+Fonte da Mesa II,10.0,Wind,2010.0,Viseu,Lamego
+Fonte da Quelha,13.5,Wind,2004.0,Viseu,Cinfães
+Fonte do Juncal,8.06,Wind,1992.0,Madeira,Ponta do Sol
+Frades II,780.0,Hydro,,Braga,Vieira do Minho
+France,7.0,Hydro,1974.0,Viana do Castelo,Vila Nova de Cerveira
+Freigil,4.6,Hydro,1988.0,Viseu,Cinfães
+Freita I,18.4,Wind,2006.0,Aveiro,Arouca
+Freita II,18.4,Wind,2006.0,Aveiro,Arouca
+Fráguas,3.2,Hydro,1993.0,Viseu,Vila Nova de Paiva
+Fábrica Têxtil de Vizela,1.2,Hydro,2004.0,Braga,Braga
+Galelas,2.0,Solar,2013.0,Lisboa,Loures
+Gameiro,1.4,Hydro,1962.0,Évora,Mora
+Gardunha,114.0,Wind,2007.0,Castelo Branco,Fundão
+Gevancas II,11.5,Wind,2013.0,Vila Real,Vila Real
+Gi,6.4,Wind,2000.0,Lisboa,Arruda dos Vinhos
+Graminhais,9.0,Wind,2012.0,Azores,Nordeste
+Granja do Tedo,2.2,Hydro,2008.0,Viseu,Tabuaço
+Guarda,8.0,Wind,2007.0,Guarda,Guarda
+Guerreiros,18.0,Wind,2008.0,Faro,Aljezur
+Guilhofrei,4.0,Hydro,1939.0,Braga,Vieira do Minho
+Helios Evosol,5.0,Solar,2015.0,Évora,Évora
+Idanha-a-Nova,2.5,Hydro,1970.0,Castelo Branco,Idanha-a-Nova
+Igreja Nova,7.2,Wind,1999.0,Lisboa,Mafra
+Incineradora da Terceira,2.8,Waste,2016.0,Azores,Angra do Heroísmo
+Interior Alentejano,2.2,Solar,2008.0,Beja,Almodôvar
+Inverno da Calheta,7.3,Hydro,1992.0,Madeira,Calheta
+Janeiro de Cima,7.9,Hydro,1995.0,Coimbra,Pampilhosa da Serra
+Joguinho,26.0,Wind,2006.0,Lisboa,Torres Vedras
+LIPOR II,29.0,Waste,1999.0,Porto,Maia
+Lagoa Funda,12.0,Wind,2011.0,Faro,Vila do Bispo
+Lagoa de D. João e Feirão,34.0,Wind,2008.0,Viseu,Resende
+Lagos,2.3,Solar,2015.0,Faro,Lagos
+Lameira,10.4,Wind,2005.0,Viseu,Castro Daire
+Lares,826.0,Gas,2009.0,Coimbra,Figueira da Foz
+Leiria (Central de Valorização Orgânica),1.7,Waste,2011.0,Leiria,Leiria
+Leomil,16.1,Wind,2007.0,Viseu,Moimenta da Beira
+Lindoso,44.1,Hydro,1922.0,Viana do Castelo,Ponte da Barca
+Lipor - Valongo,2.6,Waste,2009.0,Porto,Gondomar
+Loiral,5.1,Wind,2009.0,Madeira,Calheta
+Loiral,7.2,Solar,2012.0,Madeira,Ponta do Sol
+Loiral II,6.0,Wind,2011.0,Madeira,Ponta do Sol
+Lomba da Seixa,13.0,Wind,2001.0,Vila Real,Montalegre
+Lomba da Seixa II,12.0,Wind,2004.0,Vila Real,Montalegre
+Lomba do Vale,21.1,Wind,2010.0,Vila Real,Montalegre
+Loures,5.9,Solar,,Lisboa,Loures
+Lourido,2.8,Hydro,2012.0,Porto,Felgueiras
+Lourinhã I,20.7,Wind,2013.0,Lisboa,Lourinhã
+Lourinhã II,20.7,Wind,2011.0,Lisboa,Lourinhã
+Lousã,35.0,Wind,2006.0,Coimbra,Lousã
+Lousã II,50.0,Wind,2009.0,Coimbra,Lousã
+Luz-On,1.2,Solar,2014.0,Faro,Alcoutim
+MARL Energia,6.0,Solar,2009.0,Lisboa,Loures
+Madrinha,10.0,Wind,2006.0,Faro,Monchique
+Mafômedes,4.2,Wind,2008.0,Porto,Baião
+Mairos 1,2.6,Wind,2006.0,Vila Real,Chaves
+Malhada Velha,1.0,Solar,2010.0,Beja,Ferreira do Alentejo
+Malhada Velha 2,9.0,Solar,2012.0,Beja,Ferreira do Alentejo
+Malhadas Góis,9.9,Wind,2001.0,Coimbra,Pampilhosa da Serra
+Malhadizes,12.0,Wind,2005.0,Coimbra,Penela
+Malhanito,66.7,Wind,2012.0,Faro,Alcoutim
+Malhapão,2.0,Solar,2013.0,Lisboa,Loures
+Manteigas,6.5,Hydro,2000.0,Guarda,Manteigas
+Maranhão,6.1,Hydro,1958.0,Portalegre,Avis
+Maravilha I,6.0,Wind,2009.0,Lisboa,Torres Vedras
+Maravilha II,4.0,Wind,2009.0,Lisboa,Torres Vedras
+Marinha,2.2,Solar,2014.0,Aveiro,Ovar
+Martim Longo 1,1.102,Solar,2014.0,Faro,Alcoutim
+Martim Longo 2,1.102,Solar,2014.0,Faro,Alcoutim
+Martim Longo 3,1.0,Solar,2014.0,Faro,Alcoutim
+Marvila,12.0,Wind,2008.0,Leiria,Batalha
+Mato da Cruz (Aterro Sanitário),1.7,Waste,2011.0,Lisboa,Vila Franca de Xira
+Meadas,9.0,Wind,2005.0,Viseu,Resende
+Meia Serra (Estação de Tratamento de Resíduos),8.0,Waste,2003.0,Madeira,Funchal
+Meimoa,5.7,Hydro,2010.0,Castelo Branco,Penamacor
+Meroicinha,9.0,Wind,2003.0,Vila Real,Vila Real
+Meroicinha II,15.0,Wind,2011.0,Vila Real,Vila Real
+Mesa do Galo I,1.6,Hydro,1996.0,Vila Real,Montalegre
+Milagres,6.0,Wind,2009.0,Lisboa,Torres Vedras
+Moinho Velho,1.8,Wind,2004.0,Lisboa,Arruda dos Vinhos
+Moinho de Manique,2.6,Wind,2004.0,Lisboa,Mafra
+Moinho dos Chãos,1.8,Wind,1992.0,Setúbal,Sines
+Montargil,3.6,Hydro,1970.0,Portalegre,Ponte de Sôr
+Monte da Chaminé,1.4,Solar,2009.0,Beja,Ferreira do Alentejo
+Montezinho,1.4,Hydro,1996.0,Bragança,Bragança
+Montijo,2.0,Wind,2005.0,Lisboa,Sobral de Monte Agraço
+Montijo,13.3,Solar,,Setúbal,Montijo
+Mosqueiros,8.0,Wind,2008.0,Guarda,Guarda
+Mosqueiros II,24.6,Wind,2009.0,Guarda,Guarda
+Mosteiro,9.1,Wind,2004.0,Guarda,Sabugal
+Mougueiras,8.0,Wind,2009.0,Castelo Branco,Oleiros
+Mourisca,38.0,Wind,2007.0,Viseu,Castro Daire
+Nave,38.0,Wind,2007.0,Viseu,Castro Daire
+Negrelo e Guilhado,22.3,Wind,2009.0,Vila Real,Vila Pouca de Aguiar
+Norte (ETAR),1.4,Waste,2009.0,Leiria,Leiria
+Nunes,8.7,Hydro,1995.0,Bragança,Vinhais
+Odivelas,2.5,Hydro,2010.0,Beja,Ferreira do Alentejo
+Oeste (Aterro Sanitário),1.1,Waste,2011.0,Lisboa,Alenquer
+Olva,2.2,Solar,2008.0,Beja,Mértola
+Ortiga,13.4,Wind,2006.0,Leiria,Figueiró dos Vinhos
+Ourique,46.0,Solar,,Beja,Ourique
+Outeiro,30.0,Wind,2005.0,Vila Real,Vila Real
+Ovadas,5.6,Hydro,1993.0,Aveiro,Castelo de Paiva
+Padrela,7.5,Wind,2004.0,Vila Real,Vila Pouca de Aguiar
+Pagade,1.9,Hydro,1993.0,Viana do Castelo,Vila Nova de Cerveira
+Palhal,2.6,Hydro,1991.0,Aveiro,Albergaria-a-Velha
+Palmela,1.6,Solar,2011.0,Setúbal,Palmela
+Palmela (Ecoparque),2.4,Waste,2011.0,Setúbal,Palmela
+Pampilhosa da Serra,114.0,Wind,2005.0,Coimbra,Pampilhosa da Serra
+Paradela,54.0,Hydro,1956.0,Vila Real,Montalegre
+Paredes,3.4,Hydro,1996.0,Viseu,São Pedro do Sul
+Passarinho,12.0,Wind,2005.0,Lisboa,Sobral de Monte Agraço
+Paul Solar,2.0,Solar,2012.0,Madeira,Ponta do Sol
+Paul da Serra,6.0,Wind,2010.0,Madeira,São Vicente
+Paul da Serra (ENEREEM),3.3,Wind,2003.0,Madeira,Ponta do Sol
+Paus,4.0,Hydro,1993.0,Viana do Castelo,Paredes de Coura
+Pedras,10.2,Wind,2009.0,Madeira,Ponta do Sol
+Pedrógão,10.0,Hydro,2006.0,Beja,Vidigueira
+Pego C.C.,837.0,Gas,,Santarém,Abrantes
+Pego do Altar,2.0,Hydro,1949.0,Setúbal,Alcácer do Sal
+Pego power station,682.0,Coal,1994.0,Santarém,Abrantes
+Pena Suar,16.0,Wind,1998.0,Porto,Amarante
+Penacova,9.6,Hydro,2001.0,Coimbra,Penacova
+Penafiel (Aterro Sanitário),1.0,Waste,2009.0,Porto,Penafiel
+Penamacor,123.8,Wind,2006.0,Castelo Branco,Penamacor
+Penedo Ruivo,13.0,Wind,2005.0,Porto,Baião
+Penhas Altas,1.6,Hydro,1998.0,Porto,Paredes
+Penide,4.9,Hydro,1951.0,Braga,Barcelos
+Perdigão,2.0,Wind,2007.0,Castelo Branco,Vila Velha de Ródão
+Pereira,5.2,Hydro,2006.0,Viseu,Castro Daire
+Pico Alto,6.0,Wind,2007.0,Faro,Silves
+Pico Vermelho,13.0,Geothermal,2006.0,Azores,Ribeira Grande
+Pico da Urze,1.8,Wind,1991.0,Azores,Calheta
+Picotinhos - Valérios,2.0,Wind,2006.0,Lisboa,Loures
+Pinhal Interior,144.0,Wind,2006.0,Castelo Branco,Oleiros
+Pinheiro,21.6,Wind,2002.0,Viseu,Castro Daire
+Pinhel,6.8,Hydro,2004.0,Guarda,Pinhel
+Planalto Beirão (Aterro Sanitário),3.9,Waste,2010.0,Viseu,Tondela
+Ponte Europa,1.0,Hydro,2007.0,Bragança,Mirandela
+Ponte da Esperança,2.8,Hydro,1942.0,Braga,Póvoa de Lanhoso
+Ponte de Jugais,20.3,Hydro,1923.0,Guarda,Seia
+Ponte do Bico,2.2,Hydro,1994.0,Braga,Amares
+Portal da Freita,1.1,Wind,1998.0,Porto,Amarante
+Porteirinhos,6.0,Solar,2010.0,Beja,Almodôvar
+Portela do Pereiro,7.8,Wind,2014.0,Leiria,Alcobaça
+Porto Santo,2.0,Solar,2010.0,Madeira,Porto Santo
+Pracana,2.0,Wind,2006.0,Santarém,Mação
+Pracana,41.0,Hydro,1993.0,Santarém,Mação
+Prado Novo,2.9,Hydro,1996.0,Bragança,Bragança
+Prados,39.1,Wind,2013.0,Guarda,Guarda
+Praia Norte,2.0,Wind,2012.0,Viana do Castelo,Viana do Castelo
+Pó,9.1,Wind,2006.0,Lisboa,Lourinhã
+Quinta do Lorde,2.55,Wind,2009.0,Madeira,Ponta do Sol
+Quinta do Louseiro,1.1,Solar,2012.0,Évora,Évora
+Rabaçal,2.0,Wind,2005.0,Coimbra,Soure
+Raia,128.8,Wind,2011.0,Guarda,Guarda
+Raiva,24.0,Hydro,1982.0,Coimbra,Penacova
+Raposa (Aterro Sanitário),1.1,Waste,2011.0,Santarém,Almeirim
+Raposeira,5.5,Wind,2014.0,Faro,Vila do Bispo
+Rebordelo,10.0,Hydro,2006.0,Bragança,Vinhais
+Resun,5.0,Solar,2015.0,Évora,Évora
+Riba d'Ave,2.4,Solar,2014.0,Braga,Vila Nova de Famalicão
+Ribabelide,14.0,Wind,2008.0,Viseu,Lamego
+Ribadouro,3.1,Hydro,1993.0,Porto,Baião
+Ribamar,6.0,Wind,2004.0,Lisboa,Mafra
+Ribatejo,1176.0,Gas,2005.0,Lisboa,Alenquer
+Ribeira Grande,15.8,Geothermal,1994.0,Azores,Ribeira Grande
+Ribeira da Janela,3.2,Hydro,1965.0,Madeira,Porto Moniz
+Ribeiradio,73.6,Hydro,2015.0,Viseu,Oliveira de Frades
+Ronfe,1.0,Hydro,1913.0,Braga,Braga
+Roxo,1.7,Hydro,2010.0,Beja,Aljustrel
+Ruães,1.8,Hydro,1998.0,Braga,Braga
+Sabugueiro I,12.8,Hydro,1947.0,Guarda,Seia
+Sabugueiro II,10.0,Hydro,1993.0,Guarda,Seia
+Sacavém,2.0,Solar,2014.0,Lisboa,Loures
+Salamonde,42.0,Hydro,1953.0,Braga,Vieira do Minho
+Salgueirinha,4.0,Solar,2014.0,Setúbal,Palmela
+Salgueiros-Guilhado,12.6,Wind,2009.0,Vila Real,Vila Pouca de Aguiar
+Salão,4.25,Wind,2013.0,Azores,Horta
+Santa Helena,4.0,Wind,2005.0,Viseu,Tarouca
+Santa Luzia,24.4,Hydro,1943.0,Coimbra,Pampilhosa da Serra
+Santa Quitéria,1.7,Hydro,1993.0,Madeira,Funchal
+Santo Varão,2.0,Solar,2014.0,Coimbra,Montemor-o-Velho
+Sardinha,26.0,Wind,2008.0,Lisboa,Loures
+Seixal (Ecoparque),1.9,Waste,2004.0,Setúbal,Seixal
+Seixal 1,2.0,Solar,2014.0,Setúbal,Seixal
+Seixal 2,8.0,Solar,2014.0,Setúbal,Seixal
+Seixal 3,8.0,Solar,2014.0,Setúbal,Seixal
+Seixinhos,10.4,Wind,2006.0,Vila Real,Peso da Régua
+Senhora da Vitória,12.0,Wind,2004.0,Leiria,Nazaré
+Senhora de Monforte,10.0,Hydro,1993.0,Guarda,Figueira de Castelo Rodrigo
+Senhora do Castelo I,1.2,Wind,2003.0,Viseu,Cinfães
+Senhora do Castelo II,4.0,Wind,2003.0,Viseu,Cinfães
+Senhora do Porto,8.8,Hydro,1945.0,Braga,Póvoa de Lanhoso
+Senhora do Salto,3.8,Hydro,1993.0,Porto,Paredes
+Senhora do Socorro,8.0,Wind,2006.0,Lisboa,Torres Vedras
+Seramena,2.0,Wind,2011.0,Lisboa,Sobral de Monte Agraço
+Sermonde (Aterro Sanitário),4.5,Waste,2004.0,Porto,Vila Nova de Gaia
+Serpa,11.0,Solar,2007.0,Beja,Serpa
+Serpa,1.7,Hydro,2010.0,Beja,Serpa
+Serra Alta,2.0,Wind,2009.0,Guarda,Sabugal
+Serra d`El Rei,21.71,Wind,2006.0,Leiria,Peniche
+Serra da Amêndoa,19.4,Wind,2002.0,Santarém,Mação
+Serra da Boa Viagem,6.0,Wind,2010.0,Coimbra,Figueira da Foz
+Serra da Boneca - Torrão,2.0,Wind,2007.0,Porto,Penafiel
+Serra da Boneca II,8.0,Wind,2005.0,Porto,Penafiel
+Serra da Cabreira,20.0,Wind,2004.0,Braga,Vieira do Minho
+Serra da Capucha,10.0,Wind,2005.0,Lisboa,Torres Vedras
+Serra da Escusa,2.0,Wind,2005.0,Lisboa,Mafra
+Serra da Lage,4.5,Wind,1999.0,Santarém,Mação
+Serra de Alvoaça,36.1,Wind,2007.0,Castelo Branco,Covilhã
+Serra de Todo-o-Mundo,10.0,Wind,2004.0,Lisboa,Cadaval
+Serra de Água,4.9,Hydro,1953.0,Madeira,Ribeira Brava
+Serra do Alvão,42.0,Wind,2008.0,Vila Real,Vila Real
+Serra do Barroso,18.0,Wind,2003.0,Vila Real,Boticas
+Serra do Barroso II,12.3,Wind,2009.0,Vila Real,Boticas
+Serra do Barroso III,22.9,Wind,2009.0,Vila Real,Boticas
+Serra do Cume,9.0,Wind,2008.0,Azores,Praia da Vitória
+Serra do Cume Norte,3.6,Wind,2013.0,Azores,Praia da Vitória
+Serra do Leiranco,32.2,Wind,2014.0,Vila Real,Montalegre
+Serra do Mú,30.7,Wind,2008.0,Beja,Almodôvar
+Serra do Ralo,32.0,Wind,2006.0,Guarda,Celorico da Beira
+Serra dos Candeeiros,111.0,Wind,2005.0,Leiria,Alcobaça
+Sicó,20.0,Wind,2008.0,Leiria,Pombal
+Sines power station,1296.0,Coal,1986.0,Setúbal,Sines
+Sirigo,4.0,Wind,2005.0,Viseu,Penedono
+Sistema Alforfa,7.2,Hydro,1997.0,Castelo Branco,Covilhã
+Sobrado,8.0,Wind,2009.0,Viseu,Castro Daire
+Sobral,14.0,Wind,2006.0,Lisboa,Sobral de Monte Agraço
+Socorridos,24.0,Hydro,1990.0,Madeira,Funchal
+Sol Cativante 5,6.0,Solar,2014.0,Faro,Loulé
+Sol Cativante 7,4.0,Solar,2014.0,Faro,Loulé
+Solara4,218.8,Solar,,Faro,Alcoutim
+Sordo,8.5,Hydro,1995.0,Vila Real,Peso da Régua
+Sotavento (Aterro Sanitário),1.2,Waste,2011.0,Faro,Alcoutim
+Soutinho,3.2,Hydro,1993.0,Viseu,Tondela
+São Cristóvão,5.3,Wind,2001.0,Viseu,Lamego
+São João,21.71,Wind,2007.0,Coimbra,Penela
+São Macário,11.5,Wind,2007.0,Viseu,São Pedro do Sul
+São Macário II,23.0,Wind,2011.0,Viseu,Cinfães
+São Mamede,6.9,Wind,2006.0,Lisboa,Mafra
+São Paio,10.0,Wind,2005.0,Viana do Castelo,Vila Nova de Cerveira
+São Pedro,12.0,Wind,2005.0,Aveiro,Arouca
+São Pedro do Sul,9.6,Hydro,1994.0,Viseu,São Pedro do Sul
+Tagus cluster (bal),11.1,Solar,,Setúbal,Montijo
+Talhadas,5.2,Hydro,1992.0,Aveiro,Sever do Vouga
+Tapada do Outeiro,990.0,Gas,,Porto,Gondomar
+Teixeiró,14.0,Wind,2004.0,Vila Real,Mesão Frio
+Teixo,7.0,Hydro,2008.0,Viseu,Tondela
+Tejo Rei,2.0,Solar,2013.0,Lisboa,Loures
+Tendais,12.0,Wind,2007.0,Viseu,Cinfães
+Termoeléctrica Centroliva,6.0,Biomass,1998.0,Castelo Branco,Vila Velha de Ródão
+Termoeléctrica Terras de Sta. Maria,10.0,Biomass,2008.0,Aveiro,Oliveira de Azeméis
+Termoeléctrica da Figueira da Foz,34.3,Biomass,2009.0,Coimbra,Figueira da Foz
+Termoeléctrica da PALSER,3.0,Biomass,2010.0,Castelo Branco,Sertã
+Termoeléctrica de Belmonte,2.0,Biomass,2010.0,Castelo Branco,Belmonte
+Termoeléctrica de Cacia,12.5,Biomass,2009.0,Aveiro,Aveiro
+Termoeléctrica de Constância,13.7,Biomass,2009.0,Santarém,Constância
+Termoeléctrica de Mortágua,9.0,Biomass,1999.0,Viseu,Mortágua
+Termoeléctrica de Ródão,13.0,Biomass,2007.0,Castelo Branco,Vila Velha de Ródão
+Termoeléctrica de Setúbal,12.5,Biomass,2009.0,Setúbal,Setúbal
+Terra Fria,104.0,Wind,2010.0,Vila Real,Montalegre
+Terragido,8.5,Hydro,1992.0,Vila Real,Vila Real
+Terras Altas de Fafe,106.0,Wind,2004.0,Braga,Fafe
+Terras do Canto,2.4,Wind,2005.0,Azores,São Roque do Pico
+Terreiro das Bruxas,1.0,Wind,2006.0,Guarda,Sabugal
+Testos,24.0,Wind,2008.0,Viseu,Tarouca
+Tocha,9.0,Wind,2012.0,Coimbra,Cantanhede
+Torga,8.5,Hydro,1993.0,Bragança,Vinhais
+Toutiço,102.0,Wind,2008.0,Coimbra,Pampilhosa da Serra
+Touvedo,22.0,Hydro,1993.0,Viana do Castelo,Ponte da Barca
+Trajouce 1,2.0,Solar,2014.0,Lisboa,Cascais
+Trajouce 2,2.0,Solar,2014.0,Lisboa,Cascais
+Trancoso,28.0,Wind,2008.0,Guarda,Trancoso
+Trandeiras,18.2,Wind,2003.0,Vila Real,Vila Pouca de Aguiar
+Trutas,2.2,Hydro,2009.0,Bragança,Vinhais
+Túneis,1.7,Hydro,1951.0,Azores,Povoação
+Ucanha,5.7,Hydro,2001.0,Viseu,Tarouca
+Vale Grande,12.3,Wind,2011.0,Coimbra,Arganil
+Vale Matancas,7.2,Solar,,Setúbal,Alcácer do Sal
+Vale Soeiro,4.4,Hydro,1993.0,Viseu,Castro Daire
+Vale de Estrela,25.3,Wind,2014.0,Guarda,Guarda
+Vale de Galegos,27.8,Wind,2010.0,Lisboa,Torres Vedras
+Vale de Madeira,1.35,Hydro,2008.0,Guarda,Figueira de Castelo Rodrigo
+Vale de Moura,28.8,Solar,,Beja,Moura
+Vale do Gaio,1.0,Hydro,1949.0,Setúbal,Alcácer do Sal
+Vales,3.2,Hydro,2009.0,Vila Real,Vila Pouca de Aguiar
+Valorsul (Central de Tratamento de Resíduos),50.6,Waste,1998.0,Lisboa,Loures
+Valorsul (Central de Valorização Orgânica),1.7,Waste,2005.0,Lisboa,Amadora
+Varosa,25.0,Hydro,1934.0,Viseu,Lamego
+Velada,1.9,Hydro,1935.0,Portalegre,Nisa
+Venda Nova,90.0,Hydro,1951.0,Vila Real,Montalegre
+Vergão,13.0,Wind,2003.0,Castelo Branco,Proença-a-Nova
+Viana do Castelo (Aterro Sanitário),2.0,Waste,2010.0,Viana do Castelo,Viana do Castelo
+Videira,6.0,Wind,2005.0,Leiria,Ansião
+Vidual,1.0,Wind,2006.0,Coimbra,Pampilhosa da Serra
+Vila Cova,23.4,Hydro,2001.0,Guarda,Seia
+Vila Cova,34.5,Wind,2014.0,Vila Real,Mondim de Basto
+Vila Franca de Xira,12.6,Wind,2009.0,Lisboa,Loures
+Vila Lobos,10.0,Wind,1998.0,Viseu,Lamego
+Vila Nova,26.0,Wind,2004.0,Coimbra,Miranda do Corvo
+Vila Nova II,28.6,Wind,2009.0,Coimbra,Miranda do Corvo
+Vila Viçosa,4.0,Hydro,1993.0,Viseu,Cinfães
+Vila do Bispo I,2.0,Wind,1998.0,Faro,Vila do Bispo
+Vila do Bispo II,10.5,Wind,2003.0,Faro,Vila do Bispo
+Vilar-Tabuaço,58.0,Hydro,1965.0,Viseu,Moimenta da Beira
+Vilarchão,2.0,Wind,2005.0,Braga,Vieira do Minho
+Viso,1.2,Wind,2006.0,Braga,Celorico de Basto
+Windplus,2.0,Wind,2011.0,,
+Águas Frias,2.4,Hydro,2002.0,Viseu,São Pedro do Sul
